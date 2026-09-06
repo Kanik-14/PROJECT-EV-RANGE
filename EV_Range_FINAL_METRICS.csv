@@ -1,0 +1,2 @@
+dataset_rows,cv_mae_km,cv_mae_std_km,final_iterations,holdout_mae_km,holdout_rmse_km,holdout_r2,model
+496,14.498308334638436,0.822853570355449,1793,10.475501807529312,16.58844928211336,0.9696764599788976,CatBoostRegressor
